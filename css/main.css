@@ -201,7 +201,7 @@ flex-direction: column;
 }.mainTitle{color: lightgray;font-size: 23px;margin-top:22.5vh;margin-bottom: 4.5vh;}
 .english{font-family: 'Raleway', sans-serif;}
 button{background-color: rgba(50, 50, 50, 0.6);margin-bottom: 4vh;height: 8vh;
-color:lightgray;width: 75vw;border-width: 1;border: 1px solid black;}
+color:lightgray;width: 75vw;border-width: 1;border: 0;}
 }
 
 /* Styles for medium screens */
